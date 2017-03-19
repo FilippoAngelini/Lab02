@@ -36,7 +36,7 @@
                   <Button fx:id="btnTranslate" mnemonicParsing="false" onAction="#doTranslate" text="Translate" />
                   <ImageView fitHeight="79.0" fitWidth="83.0">
                      <image>
-                        <Image url="@../../../../../../Alieno.PNG" />
+                        <Image url="@../../../../../Alieno.PNG" />
                      </image>
                   </ImageView>
                </children>
